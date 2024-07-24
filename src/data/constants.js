@@ -428,6 +428,19 @@ export const Bio = {
       webapp: "https://shanmukkuntla.github.io/Digital-Calulator/",
     },
     {
+      id: 5,
+      title: "Snake Game",
+      date: "May 2024 - June 2024",
+      description:
+        "This project showcases a classic Snake game implemented using React, a popular JavaScript library for building user interfaces. The game faithfully recreates the nostalgic experience of controlling a growing snake, chasing after food, and avoiding collisions with itself and the walls.",
+      image:
+        "https://github.com/shanmukkuntla/warm-game-react/raw/main/public/print.png",
+      tags: ["HTML 5","CSS 3","JavaScript","jQuery","React Js",],
+      category: "web app",
+      github: "https://github.com/shanmukkuntla/warm-game-react",
+      webapp: "https://shanmukkuntla.github.io/warm-game-react/",
+    },
+    {
       id: 4,
       title: "Rock, Paper, Scissor Game",
       date: "Mar 2024 - Apr 2024",
@@ -440,19 +453,7 @@ export const Bio = {
       github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
       webapp: "https://whatsapp-clone-rishav.web.app",
     },
-    {
-      id: 5,
-      title: "Countdown Timer",
-      date: "May 2024 - June 2024",
-      description:
-        "Creating a Countdown Timer is an excellent project for understanding how to work with timers and manage state in React. This project involves setting a timer that counts down from a specified time to zero, which is useful in many real-world applications like events, offers, and more.",
-      image:
-        "https://www.codewithfaraz.com/thumbnails/20-reactjs-projects-for-beginners-countdown-timer.webp",
-      tags: ["HTML 5","CSS 3","JavaScript","jQuery","React Js",],
-      category: "web app",
-      github: "https://github.com/rishavchanda/Todo-Web-App",
-      webapp: "https://rishav-react-todo.netlify.app/",
-    },
+    
     {
       id: 6,
       title: "Countries and Weather API",
