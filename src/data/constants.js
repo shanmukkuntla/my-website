@@ -476,8 +476,8 @@ export const Bio = {
         "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/252510418/original/9a334229ebe144f3f244f4a44036605abbed4441/make-portfolio-website-for-you-in-html-css-react-js.png",
       tags: ["HTML 5","CSS 3","JavaScript","jQuery","React Js",],
       category: "web app",
-      github: "https://github.com/rishavchanda/Breaking-Bad",
-      webapp: "https://breaking-bad-webapp.netlify.app",
+      github: "https://github.com/shanmukkuntla/my-website",
+      webapp: "https://shanmukkuntla.github.io/my-website/",
     },
 
   ];
