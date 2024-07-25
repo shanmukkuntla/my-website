@@ -89,6 +89,8 @@ function Footer() {
     <FooterContainer>
       <FooterWrapper>
         <Logo>Shanmuk Kuntla</Logo>
+        <p>Mobile No: +91 9731175447</p>
+        <p>Email: kuntla1939@gmail.com</p>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
@@ -103,7 +105,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2024 Shanmuk kuntl. All rights reserved.
+          &copy; 2024 Shanmuk kuntla. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
