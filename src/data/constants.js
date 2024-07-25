@@ -441,33 +441,6 @@ export const Bio = {
       webapp: "https://shanmukkuntla.github.io/warm-game-react/",
     },
     {
-      id: 4,
-      title: "Rock, Paper, Scissor Game",
-      date: "Mar 2024 - Apr 2024",
-      description:
-        "Building a Rock, Paper, Scissors game is a fun and simple project for beginners. This project will help you understand how to manage state, handle user input, and implement game logic in React.",
-      image:
-        "https://www.codewithfaraz.com/thumbnails/20-reactjs-projects-for-beginners-rock-paper-scissor.webp",
-      tags: ["HTML 5","CSS 3","JavaScript","jQuery","React Js",],
-      category: "web app",
-      github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
-      webapp: "https://whatsapp-clone-rishav.web.app",
-    },
-    
-    {
-      id: 6,
-      title: "Countries and Weather API",
-      date: "June 2024 - July 2024",
-      description:
-        "Creating a Weather App involves fetching and displaying data with APIs. This project will teach you how to handle asynchronous operations and integrate external data sources.",
-      image:
-        "https://www.codewithfaraz.com/thumbnails/20-reactjs-projects-for-beginners-countries-weather-api.webp",
-      tags: ["HTML 5","CSS 3","JavaScript","jQuery","React Js",],
-      category: "web app",
-      github: "https://github.com/rishavchanda/Breaking-Bad",
-      webapp: "https://breaking-bad-webapp.netlify.app",
-    },
-    {
       id: 7,
       title: "Portfolio Website",
       date: "July 2024 - Present",
