@@ -43,6 +43,7 @@ const HeroSection = () => {
                 />
               </Span>
             </TextLoop> */}
+            <br />
             <SubTitle>{Bio.description}</SubTitle>
             <ResumeButton href={Bio.resume} target="display">
               Check Resume
