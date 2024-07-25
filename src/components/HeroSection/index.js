@@ -31,7 +31,7 @@ const HeroSection = () => {
             <Title>
               Hi, I am <br /> {Bio.name}
             </Title>
-            <TextLoop>
+            {/* <TextLoop>
               I am a
               <Span>
                 <Typewriter
@@ -42,7 +42,7 @@ const HeroSection = () => {
                   }}
                 />
               </Span>
-            </TextLoop>
+            </TextLoop> */}
             <SubTitle>{Bio.description}</SubTitle>
             <ResumeButton href={Bio.resume} target="display">
               Check Resume
