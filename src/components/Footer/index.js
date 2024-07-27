@@ -89,7 +89,7 @@ function Footer() {
       <FooterWrapper>
         <Logo>Shanmuk Kuntla</Logo>
         <p>Mobile No: +91 9731175447</p>
-        <p>Email :<a href="mailto:kuntla1939@gmail.com">kuntla1939@gmail.com</a></p>
+        <p>Email : <a href="mailto:kuntla1939@gmail.com">kuntla1939@gmail.com</a></p>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
