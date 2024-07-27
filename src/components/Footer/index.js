@@ -83,14 +83,13 @@ const Copyright = styled.p`
   color: ${({ theme }) => theme.soft2};
   text-align: center;
 `;
-
 function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
         <Logo>Shanmuk Kuntla</Logo>
         <p>Mobile No: +91 9731175447</p>
-        <p>Email: kuntla1939@gmail.com</p>
+        <p color="#fff"><a href="mailto:kuntla1939@gmail.com">Email : kuntla1939@gmail.com</a></p>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
