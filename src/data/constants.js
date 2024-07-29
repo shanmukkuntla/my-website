@@ -1,3 +1,5 @@
+import { WhatsApp } from "@mui/icons-material";
+
 export const Bio = {
     name: "Guna Shanmuka sairam Kuntla",
     roles: ["Front-End Developer"],
@@ -7,6 +9,7 @@ export const Bio = {
     resume:
       "https://drive.google.com/file/d/1stm9prB03e_4aoiozJngBpyVMW5OiE3J/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/shanmuk-kuntla-762a881b0/",
+    Whatsapp :"https://wa.me/+919731175447",
   };
   
   export const skills = [
