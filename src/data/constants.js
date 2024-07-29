@@ -10,6 +10,7 @@ export const Bio = {
       "https://drive.google.com/file/d/1stm9prB03e_4aoiozJngBpyVMW5OiE3J/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/shanmuk-kuntla-762a881b0/",
     Whatsapp :"https://wa.me/+919731175447",
+    Call :"tel:+919731175447",
   };
   
   export const skills = [

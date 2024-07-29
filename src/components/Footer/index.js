@@ -4,7 +4,8 @@ import TwitterIcon from '@mui/icons-material/Twitter';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import GithubIcon from '@mui/icons-material/GitHub';
-import WhatsappIcon from '@mui/icons-material/WhatsApp'
+import WhatsappIcon from '@mui/icons-material/WhatsApp';
+import CallIcon from '@mui/icons-material/Call';
 import { Bio } from '../../data/constants';
 
 const FooterContainer = styled.div`
@@ -100,7 +101,7 @@ function Footer() {
           <NavLink href="#education">Education</NavLink>
         </Nav>
         <SocialMediaIcons>
-          <SocialMediaIcon href={Bio.facebook} target="display"><FacebookIcon /></SocialMediaIcon>
+          <SocialMediaIcon href={Bio.Call} target="display"><CallIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.Whatsapp} target="display"><WhatsappIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.github} target="display"><GithubIcon /></SocialMediaIcon>
