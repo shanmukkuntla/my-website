@@ -7,7 +7,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/shanmukkuntla",
     resume:
-      "https://drive.google.com/file/d/1stm9prB03e_4aoiozJngBpyVMW5OiE3J/view?usp=sharing",
+      "https://drive.google.com/file/d/1qIHEQSXKHrGc-_IQm4pSl56gA7-5mnqv/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/shanmuk-kuntla-762a881b0/",
     Whatsapp :"https://wa.me/+919731175447",
     Call :"tel:+919731175447",
@@ -420,7 +420,7 @@ export const Bio = {
     },
     {
       id: 10,
-      title: "Digital Calulator",
+      title: "Digital Calculator",
       date: "Feb 2024 - March 2024",
       description:
         "Creating a digital calculator using HTML, CSS, JavaScript, and jQuery involves combining these technologies to build a functional and interactive interface.",
